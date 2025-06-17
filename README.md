@@ -79,9 +79,8 @@ pip install -r requirements.txt
 *Lead Developer & Project Architect*
 
 - 📧 Email: [snehashisdas842@gmail.com](mailto:snehashisdas842@gmail.com)  
-- 📱 Phone: +91-9330759496  
 - 🌐 GitHub: [snehashis842](https://github.com/snehashis842)  
-- 🔗 LinkedIn: [linkedin.com/in/snehashisdas](https://linkedin.com/in/snehashisdas)
+- 🔗 LinkedIn: [linkedin.com/in/snehashisdas](https://www.linkedin.com/in/snehashisdas-/)
 
 ---
 
