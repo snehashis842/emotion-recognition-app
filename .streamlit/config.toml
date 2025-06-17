@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#42A5F5"             # Soft modern blue
+backgroundColor = "#121212"          # Almost black
+secondaryBackgroundColor = "#1E1E1E" # Dark grey
+textColor = "#E3F2FD"                # Light blue text
+font = "sans serif"
