@@ -28,14 +28,15 @@ ASDP AI is a real-time facial emotion detection web application developed using 
 
 emotion-recognition-app/
 │
-├── app.py # Main Streamlit application
-├── emotion_recognition_model.keras # Trained CNN model
-├── data balancing.ipynb # Notebook for dataset rebalancing
-├── model Tranning.ipynb # CNN training process
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-├── assets/ # UI images and emotion icons
-└── .streamlit/ # Streamlit configuration files
+├── app.py                         # Main Streamlit app
+├── emotion_recognition_model.keras  # Trained CNN model
+├── data balancing.ipynb          # Dataset preprocessing notebook
+├── model Tranning.ipynb          # Model training notebook
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
+├── assets/                       # UI images and emotion icons
+└── .streamlit/                   # Streamlit configuration files
+
 
 ---
 
@@ -45,32 +46,23 @@ To run this app locally:
 
 1. **Clone the repository**
 
-```bash
 git clone git@github.com:snehashis842/emotion-recognition-app.git
 cd emotion-recognition-app
 
-2. Install dependencies
-
+2. **Install Dependencies**
 pip install -r requirements.txt
 
-3. Run the Streamlit app
-
-streamlit run app.py
+3. **Launch the Application**
+pip install -r requirements.txt
 
 📸 Screenshots
+🏠 Home Interface
 
 
-Home Interface
-![Webcam Demo](assets/home.png)
+📷 Webcam Detection
 
 
-Webcam Detection Demo
-![Webcam Demo](assets/webcam.png)
-
-
-Image Upload Result
-
-![Image Upload](assets/upload.png)
+🖼️ Image Upload Result
 
 
 🙋‍♂️ Developer Profile
@@ -81,7 +73,7 @@ Lead Developer & Project Architect
 
 📱 Phone: +91-9330759496
 
-🌐 GitHub: github.com/snehashis842
+🌐 GitHub: @snehashis842
 
 🔗 LinkedIn: linkedin.com/in/snehashisdas
 
@@ -96,23 +88,19 @@ Visualization	Matplotlib, Seaborn
 Version Control	Git, GitHub
 
 📈 Future Improvements
- Deploy to Streamlit Cloud for public access
+🌐 Deploy to Streamlit Cloud or Hugging Face Spaces
 
- Add user session tracking & analytics
+📊 Add session tracking & emotion analytics
 
- Expand dataset with user-submitted faces
+📷 Expand dataset with user-submitted facial data
 
- Improve model accuracy with more layers & dropout
+🧠 Improve model with advanced CNN layers & dropout
 
- Multi-face detection & emotion tracking in real-time
+👨‍👩‍👧 Real-time multi-face detection & tracking
 
 📄 License
-This project is for academic and educational purposes only.
-Please contact the author for reuse or extension.
+This project is intended for academic and educational purposes only.
+Please contact the developer for permission regarding reuse or contributions.
 
-⭐️ If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
-
----
-
-```
+⭐️ Show Your Support
+If you found this project helpful, please consider giving it a star ⭐ on GitHub!
