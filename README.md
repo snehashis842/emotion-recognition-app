@@ -51,61 +51,71 @@ cd emotion-recognition-app
 ```
 
 
-2. **Install Dependencies**
+### 2. **Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Launch the Application**
+### 3. **Launch the Application**
 ```bash
 pip install -r requirements.txt
 ```
-📸 Screenshots
-🏠 Home Interface
+## 📸 Screenshots
 
+### 🏠 Home Interface
+![Home Interface](assets/home.png)
 
-📷 Webcam Detection
+### 🎥 Webcam Detection
+![Webcam Detection](assets/webcam.png)
 
+### 🖼️ Image Upload Result
+![Image Upload Result](assets/upload.png)
 
-🖼️ Image Upload Result
+---
 
+## 🙋‍♂️ Developer Profile
 
-🙋‍♂️ Developer Profile
-👨‍💻 Snehashis Das
-Lead Developer & Project Architect
+**👨‍💻 Snehashis Das**  
+*Lead Developer & Project Architect*
 
-📧 Email: snehashisdas842@gmail.com
+- 📧 Email: [snehashisdas842@gmail.com](mailto:snehashisdas842@gmail.com)  
+- 📱 Phone: +91-9330759496  
+- 🌐 GitHub: [snehashis842](https://github.com/snehashis842)  
+- 🔗 LinkedIn: [linkedin.com/in/snehashisdas](https://linkedin.com/in/snehashisdas)
 
-📱 Phone: +91-9330759496
+---
 
-🌐 GitHub: @snehashis842
+## 🛠️ Tech Stack
 
-🔗 LinkedIn: linkedin.com/in/snehashisdas
+| Category           | Tools & Technologies             |
+|--------------------|----------------------------------|
+| **Language**       | Python                           |
+| **Frontend**       | Streamlit, HTML, CSS             |
+| **Computer Vision**| OpenCV                           |
+| **Deep Learning**  | TensorFlow, Keras                |
+| **Data Handling**  | NumPy, Pandas                    |
+| **Visualization**  | Matplotlib, Seaborn              |
+| **Version Control**| Git, GitHub                      |
 
-🛠️ Tech Stack
-Category	Tools & Technologies
-Language	Python
-Frontend	Streamlit, HTML, CSS
-Computer Vision	OpenCV
-Deep Learning	TensorFlow, Keras
-Data Handling	NumPy, Pandas
-Visualization	Matplotlib, Seaborn
-Version Control	Git, GitHub
+---
 
-📈 Future Improvements
-🌐 Deploy to Streamlit Cloud or Hugging Face Spaces
+## 📈 Future Improvements
 
-📊 Add session tracking & emotion analytics
+- 🚀 Deploy to Streamlit Cloud for public access  
+- 📊 Add user session analytics  
+- 📸 Multi-face detection & tracking  
+- 🧠 Improve model accuracy with deeper architecture  
+- 🤳 Expand dataset with user-submitted images  
 
-📷 Expand dataset with user-submitted facial data
+---
 
-🧠 Improve model with advanced CNN layers & dropout
+## 📄 License
 
-👨‍👩‍👧 Real-time multi-face detection & tracking
+This project is intended for academic and educational use only.  
+For reuse, extension, or commercial applications, please contact the developer.
 
-📄 License
-This project is intended for academic and educational purposes only.
-Please contact the developer for permission regarding reuse or contributions.
+---
 
-⭐️ Show Your Support
-If you found this project helpful, please consider giving it a star ⭐ on GitHub!
+## ⭐️ Support
+
+If you found this project useful, please consider giving it a ⭐ on [GitHub](https://github.com/snehashis842/emotion-recognition-app)!
