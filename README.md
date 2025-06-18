@@ -65,26 +65,27 @@ streamlit run app.py
 ```
 ## 📸 Screenshots
 
-🏠 Home Interface
+### 🏠 Home Interface
 <img src="assets/home.png" width="600"/>
-🎥 Webcam Detection
+
+### 🎥 Webcam Detection
 <img src="assets/webcam.png" width="600"/>
-🖼️ Image Upload Result
+
+### 🖼️ Image Upload Result
 <img src="assets/upload.png" width="600"/>
 
 ---
 
 ## 🙋‍♂️ Developer Profile
 
-Snehashis Das
-Lead Developer & Project Architect
+### Snehashis Das  
+*Lead Developer & Project Architect*
 
 <img src="assets/snehashis.jpg" alt="Snehashis Das" width="140"/>
-📧 Email: snehashisdas842@gmail.com
 
-🌐 GitHub: snehashis842
-
-🔗 LinkedIn: linkedin.com/in/snehashisdas
+- 📧 Email: [snehashisdas842@gmail.com](mailto:snehashisdas842@gmail.com)  
+- 🌐 GitHub: [snehashis842](https://github.com/snehashis842)  
+- 🔗 LinkedIn: [linkedin.com/in/snehashisdas](https://www.linkedin.com/in/snehashisdas-/)
 
 ## 🛠️ Tech Stack
 
