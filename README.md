@@ -6,23 +6,23 @@
 
 ## 🚀 Features
 
-- 🔐 **Secure Login System** – Basic user authentication
-- 📸 **Real-Time Emotion Detection** – Detects emotions from webcam input
-- 🖼️ **Image Upload Analysis** – Detects emotions in static uploaded images
-- 📊 **Confidence Score Visualization** – Displays probabilities for each emotion
-- 👥 **About Page** – Developer information and contact section
+- 🔐 **Secure Login System** – Basic user authentication  
+- 📸 **Real-Time Emotion Detection** – Detects emotions from webcam input  
+- 🖼️ **Image Upload Analysis** – Detects emotions in static uploaded images  
+- 📊 **Confidence Score Visualization** – Displays probabilities for each emotion  
+- 👥 **About Page** – Developer information and contact section  
 
 ---
 
 ## 🧠 Model Overview
 
-| Detail         | Description                                  |
-|----------------|----------------------------------------------|
-| **Architecture** | Custom 5-layer CNN                        |
-| **Dataset**      | FER-2013 (balanced: 5,000 images/class)   |
-| **Accuracy**     | ~70% on test set                          |
+| Detail           | Description                                 |
+|------------------|---------------------------------------------|
+| **Architecture** | Custom 5-layer CNN                          |
+| **Dataset**      | FER-2013 (balanced: 5,000 images/class)     |
+| **Accuracy**     | ~70% on test set                            |
 | **Preprocessing**| Grayscale, normalization, class rebalancing |
-| **Frameworks**   | TensorFlow, Keras, OpenCV                 |
+| **Frameworks**   | TensorFlow, Keras, OpenCV                   |
 
 ---
 
@@ -33,11 +33,13 @@ emotion-recognition-app/
 ├── app.py                         # Main Streamlit application
 ├── emotion_recognition_model.keras  # Trained CNN model
 ├── data balancing.ipynb           # Dataset rebalancing notebook
-├── model Tranning.ipynb           # CNN training notebook
+├── model Training.ipynb           # CNN training notebook
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
 ├── assets/                        # UI images and icons
 └── .streamlit/                    # Streamlit config files
+
+
 ``` 
 ## ⚙️ Installation & Setup
 
@@ -46,9 +48,10 @@ To run this app locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:snehashis842/emotion-recognition-app.git
+git clone https://github.com/snehashis842/emotion-recognition-app.git
 cd emotion-recognition-app
 ```
+
 
 
 ### 2. **Install Dependencies**
@@ -62,29 +65,26 @@ streamlit run app.py
 ```
 ## 📸 Screenshots
 
-### 🏠 Home Interface
-![Home Interface](assets/home.png)
-
-### 🎥 Webcam Detection
-![Webcam Detection](assets/webcam.png)
-
-### 🖼️ Image Upload Result
-![Image Upload Result](assets/upload.png)
+🏠 Home Interface
+<img src="assets/home.png" width="600"/>
+🎥 Webcam Detection
+<img src="assets/webcam.png" width="600"/>
+🖼️ Image Upload Result
+<img src="assets/upload.png" width="600"/>
 
 ---
 
 ## 🙋‍♂️ Developer Profile
 
-**👨‍💻 Snehashis Das** 
-!(assets/snehashis.jpg)
----
-*Lead Developer & Project Architect*
+Snehashis Das
+Lead Developer & Project Architect
 
-- 📧 Email: [snehashisdas842@gmail.com](mailto:snehashisdas842@gmail.com)  
-- 🌐 GitHub: [snehashis842](https://github.com/snehashis842)  
-- 🔗 LinkedIn: [linkedin.com/in/snehashisdas](https://www.linkedin.com/in/snehashisdas-/)
+<img src="assets/snehashis.jpg" alt="Snehashis Das" width="140"/>
+📧 Email: snehashisdas842@gmail.com
 
----
+🌐 GitHub: snehashis842
+
+🔗 LinkedIn: linkedin.com/in/snehashisdas
 
 ## 🛠️ Tech Stack
 
