@@ -79,9 +79,10 @@ streamlit run app.py
 ## 🙋‍♂️ Developer Profile
 
 ### Snehashis Das  
-*Lead Developer & Project Architect*
 
 <img src="assets/snehashis.jpg" alt="Snehashis Das" width="140"/>
+
+*Lead Developer & Project Architect*
 
 - 📧 Email: [snehashisdas842@gmail.com](mailto:snehashisdas842@gmail.com)  
 - 🌐 GitHub: [snehashis842](https://github.com/snehashis842)  
