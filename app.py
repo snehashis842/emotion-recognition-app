@@ -9,7 +9,7 @@ import pandas as pd
 import base64
 
 # Page config
-st.set_page_config(page_title="😊 Emotion Detector", page_icon="😎", layout="centered")
+st.set_page_config(page_title="😊 Emotion Detector", page_icon="😁", layout="centered")
 
 
 # Load model
